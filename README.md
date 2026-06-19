@@ -44,13 +44,7 @@ quants-projects/
 - matplotlib
 - yfinance (for stock data)
 
-## Installation
 
-```bash
-git clone https://github.com/YOUR-USERNAME/quants-projects.git
-cd quants-projects
-pip install -r requirements.txt
-```
 
 ## Usage
 
@@ -58,8 +52,5 @@ Each project folder contains a Jupyter notebook with complete analysis and imple
 
 ## Author
 
-Your Name
+Aryan Chitroda 
 
-## License
-
-MIT
